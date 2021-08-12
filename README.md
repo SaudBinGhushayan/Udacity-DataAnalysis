@@ -17,3 +17,9 @@ __Project 3__
 --------------------------------------
 A/B tests and Regression tests were performed on a new web page to decide if a company should implement this new page or just stick with the old page
 > This project was done on Jupyter notebook
+
+__Project 4__ 
+-------------------------------------
+In this Project I went and experienced the whole `wrangling` process from Gathering to Cleaning and Storing . 
+
+The data set in this project is [@WeRateDogs](https://twitter.com/dog_rates) Twitter account I assessed and cleaned their "tweets" and in the end I did some anaylsis as shown in the [README.md](https://github.com/Sayhouj/Udacity-DataAnalysis/blob/main/Project%204/README.md) file inside the [Project File](https://github.com/Sayhouj/Udacity-DataAnalysis/tree/main/Project%204)
