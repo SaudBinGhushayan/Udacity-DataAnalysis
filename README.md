@@ -22,4 +22,4 @@ __Project 4__
 -------------------------------------
 In this Project I went and experienced the whole `wrangling` process from Gathering to Cleaning and Storing . 
 
-The data set in this project is [@WeRateDogs](https://twitter.com/dog_rates) Twitter account I assessed and cleaned their "tweets" and in the end I did some anaylsis as shown in the [README.md](https://github.com/Sayhouj/Udacity-DataAnalysis/blob/main/Project%204/README.md) file inside the [Project File](https://github.com/Sayhouj/Udacity-DataAnalysis/tree/main/Project%204)
+The data set in this project is [@WeRateDogs](https://twitter.com/dog_rates) Twitter account I assessed and cleaned their "tweets" and in the end I did some anaylsis as shown in the [Project File](https://github.com/Sayhouj/Udacity-DataAnalysis/tree/main/Project%204)
