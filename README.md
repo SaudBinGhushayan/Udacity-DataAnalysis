@@ -23,3 +23,8 @@ __Project 4__
 In this Project I went and experienced the whole `wrangling` process from Gathering to Cleaning and Storing . 
 
 The data set in this project is [@WeRateDogs](https://twitter.com/dog_rates) Twitter account I assessed and cleaned their "tweets" and in the end I did some anaylsis as shown in the [Project File](https://github.com/Sayhouj/Udacity-DataAnalysis/tree/main/Project%204)
+
+__Project 5__ 
+-------------------------------------
+In this project I chose the loan dataset which was about 81 columns and 113937 observations , In this dataset I'm going to investigate the loans nature , what loans are for , whats the relation between the monthly payments associated with loan amount and also whats the status of loans
+
